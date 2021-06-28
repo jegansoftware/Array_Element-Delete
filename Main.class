@@ -1,0 +1,12 @@
+package username;
+
+public class Username {
+
+	public static void main(String[] args) {
+		ArrayDelete s=new ArrayDelete();
+		s.getvalue();
+		s.print();
+
+	}
+
+}
